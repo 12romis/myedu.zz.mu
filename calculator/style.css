@@ -1,0 +1,38 @@
+.wrapper {
+    width: 300px;
+    height: 550px;
+    background-color: aqua;
+    background-image: url(../images/upfeathers.png);
+    margin: auto auto;
+}
+
+.inp {
+    margin: 10px 10px;
+    text-align: center;
+}
+
+.submit {
+    width: 35px;
+}
+
+.last {
+    width: 200px;
+    height: 250px;
+    margin: 10px 10px;
+
+}
+
+.inp2 {
+    margin: 0 10px;
+    text-align: center;
+    width: 50px;
+}
+
+.clear {
+    margin: 10px 10px;
+    margin-left: 20px;
+}
+
+body {
+    background-image: url("star.png");
+}

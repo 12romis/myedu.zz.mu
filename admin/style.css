@@ -1,0 +1,12 @@
+body {
+    background-image: url("star.png");
+    color: whitesmoke;
+}
+h1 {
+    text-align: center;
+}
+.wrapper {
+    width: 500px;
+    height: 200px;
+    margin: auto auto;
+}

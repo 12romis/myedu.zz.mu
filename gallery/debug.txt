@@ -1,0 +1,290 @@
+
+ count[0] 18 = 1
+ count 18= 2
+ we are here: models/in function views ()
+ count[0] 18 = 1
+ count 18= 2
+
+
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 0
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 0
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: models/in function views ()
+ count[0] 19 = 1
+ count 19= 2
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 0
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 0
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: models/in function views ()
+ count[0] 17 = 0
+ count 17= 1
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: models/in function views ()
+ count[0] 17 = 1
+ count 17= 2
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: models/in function views ()
+ count[0] 17 = 2
+ count 17= 3
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: models/in function views ()
+ count[0] 18 = 2
+ count 18= 3
+ we are here: models/in function views ()
+ count[0] 16 = 2
+ count 16= 3
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: models/in function views ()
+ count[0] 17 = 3
+ count 17= 4
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 4
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 4
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 4
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 4
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 4
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 4
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 4
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 4
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 4
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 4
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 0
+ we are here: index/after foreach ($pict as $m)
+ we are here: models/in function views ()
+ count[0] 20 = 0
+ count 20= 1
+ we are here: models/in function views ()
+ count[0] 20 = 1
+ count 20= 2
+ we are here: models/in function views ()
+ count[0] 20 = 2
+ count 20= 3
+ we are here: index/after startup()
+ we are here: index/before $picts = get_pict();
+ we are here: models/in function get_pict()
+ we are here: models/after function get_pict() point 1 Resource id #10
+ we are here: models/after function get_pict() point 2 Resource id #10
+ we are here: models/after function get_pict()
+ we are here: index/before foreach ($pict as $m)
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 17 $m[type] = jpg $m[views] = 4
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 16 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 18 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 20 $m[type] = jpg $m[views] = 3
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 19 $m[type] = jpg $m[views] = 2
+ we are here: index/ foreach (Array as Array) $m[id_pict] = 15 $m[type] = jpg $m[views] = 1
+ we are here: index/after foreach ($pict as $m)

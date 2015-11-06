@@ -1,0 +1,11 @@
+.wrapper {
+    width: 350px;
+    height: 200px;
+    background-color: cornflowerblue;
+    padding: 20px;
+    margin: auto auto;
+}
+
+body {
+    background-image: url(../images/upfeathers.png);
+}

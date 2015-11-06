@@ -1,0 +1,77 @@
+#wrapper {
+    width: 800px;
+    border: 2px solid #f4f4f4;
+    background-color: black;
+    margin: 0 auto;
+    padding: 1px;
+    background-image: url(../images/star.png);
+}
+
+body {
+ background-image: url(../images/pattern.png);   
+}
+
+#menu {
+    width: 180px;
+    float: left;
+    padding-left: 5px;
+    margin-top: 40px;
+}
+
+#header {
+    width: 300px;
+    display: inline;
+    text-align: right;
+    color: whitesmoke;
+    font-size: 55px;
+    font-style: oblique italic;
+}
+
+
+
+p {
+    font-size: 20px;
+
+}
+
+#content {
+    background-color: cadetblue;
+    width: 625px;
+    float: right;
+    color: cornsilk;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    margin-top: 40px;
+}
+
+ul {
+font-size: 20px;
+}
+
+#admin {
+    position: absolute;
+    top: 0;
+}
+
+.all-tab {
+    color: honeydew;
+    padding: 10px;
+}
+
+table {
+    text-align: center;
+    width: 100%;
+
+}
+
+.btn-group {
+    float: right;
+}
+
+#add_news {
+    color: black;
+    width: 500px;
+    height: 170px;
+}
+

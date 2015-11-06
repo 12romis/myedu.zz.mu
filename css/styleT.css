@@ -1,0 +1,56 @@
+#wrapper {
+    width: 800px;
+    border: 2px solid #f4f4f4;
+    background-color: azure;
+    margin: 0 auto;
+    padding: 1px;
+    height: 1250px;
+    background-image: url(../images/pattern2.png);
+}
+
+body {
+ background-image: url(../images/pattern.png);   
+}
+
+#menu {
+    width: 150px;
+    float: left;
+    padding-left: 5px;
+}
+
+#header {
+    text-align: center;
+    color: cornflowerblue;
+    font-size: 25px;
+    font-style: oblique italic;
+}
+
+#logo {
+float: left;
+    margin-left: 160px;
+}
+
+p {
+font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#content {
+    background-color: cadetblue;
+    width: 625px;
+    float: right;
+    color: cornsilk;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    padding: 0;
+    margin: 0;
+  
+
+}
+#img {
+margin-right: 30px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}

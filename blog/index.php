@@ -1,0 +1,1 @@
+<?phpinclude_once ("c/C_all_art.php");$controller = new C_all_art();$controller->request();/*include_once "startup.php";include_once "model.php";startup();$articles = articles_intro();$content = view_include ("theme/v_index.php", array('articles' => $articles));$page = view_include ("theme/v_base_pattern.php", array('content' => $content));echo $page;*/

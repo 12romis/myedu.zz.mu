@@ -1,0 +1,1 @@
+	<a href="index.php">Main page</a> |	<a href="editor.php">Console editor</a>	<hr/>	<h1>New article</h1>	<form method="post">		Title:		<br/>		<input type="text" name="title" value="<?=$title?>"/>		<br/>		<br/>		Content:		<br/>		<textarea name="content"><?=$content?></textarea>		<br/>		<input type="submit" value="Add a new article" />	</form>
