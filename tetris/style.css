@@ -1,0 +1,51 @@
+#matrix1
+{
+	width: 300px;
+	height: 400px;
+	border-top: 1px solid green;
+	border-left: 1px solid green;
+	margin: 20px;
+	float: left;
+}
+
+.info {
+    margin: 15px 0;
+	float: left;
+}
+
+.cell
+{
+	float: left;
+	width: 19px;
+	height: 19px;	
+	border-bottom: 1px solid green;
+	border-right: 1px solid green;
+}
+
+.on {
+background-color: red;
+}
+
+.stay {
+    background-color: #808080;
+}
+
+.fruit {
+    background-color: yellow;
+}
+
+body {
+    background-color: lightblue;
+}
+
+#buttonPlay {
+    margin: 5px auto;
+    height: 50px;
+    width: 100px;
+}
+
+#buttonPause {
+    height: 100px;
+    width: 100px;
+    margin-top: 150px;
+}

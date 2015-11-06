@@ -1,0 +1,47 @@
+#matrix1
+{
+	width: 400px;
+	height: 400px;
+	border-top: 1px solid green;
+	border-left: 1px solid green;
+	margin: 20px auto;
+}
+
+.info {
+    margin: auto auto;
+}
+
+.cell
+{
+	float: left;
+	width: 19px;
+	height: 19px;	
+	border-bottom: 1px solid green;
+	border-right: 1px solid green;
+}
+
+.on {
+background-color: red;
+}
+
+.fruit {
+    background-color: yellow;
+}
+
+body {
+    background-image: url("img/flash_snake_game_by_mydeaththekid-d3hytxe.png");
+    background-color: mediumspringgreen;
+}
+
+#buttonPlay {
+    position: absolute;
+    margin: 5px auto;
+}
+
+#buttonPause {
+    display: none;
+    position: absolute;
+    top: 0;
+    height: 200px;
+    width: 200px;
+}
