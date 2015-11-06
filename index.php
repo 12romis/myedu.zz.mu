@@ -126,10 +126,12 @@ $lines = file('admin/news.txt');
             <li><a href="http://secedu.ho.ua/emblema">Our dream team</a></li>
             <li><a href="gallery/">Arbitrary photo gallery</a></li>
             <li><a href="blog/">Own mini blog</a></li>
+            <li><a href="snake/">my game Snake</a></li>
+			<li><a href="tetris/">my game Tetris</a></li>
         </ul>
     </div>
-    <!--=================================Button My simple projects: end====================-->
-    <br/><br/>
+<!--=================================Button My simple projects: end====================-->
+    <br/>
 <!--==================================Tabs: begin======================================-->
 
     <div class="tabs">
@@ -239,5 +241,6 @@ $lines = file('admin/news.txt');
 <!--======================================Button - Administrator: end ===========================-->
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="js/bootstrap.js"></script>
+<?php include 'clock/index.php';?>
 </body>
 </html>
