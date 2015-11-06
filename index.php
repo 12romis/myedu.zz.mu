@@ -128,6 +128,7 @@ $lines = file('admin/news.txt');
             <li><a href="blog/">Own mini blog</a></li>
             <li><a href="snake/">my game Snake</a></li>
 			<li><a href="tetris/">my game Tetris</a></li>
+			<li><a href="interview/">Interview for nau</a></li>
         </ul>
     </div>
 <!--=================================Button My simple projects: end====================-->
